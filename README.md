@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doug-Wyman with over 60 years of computing under my belt
+- 👋 Hi, I’m @Doug-Wyman with over 62 years of computing experience
 - 👀 I’m interested in keeping up my skills in hardware and software
 - 🌱 I’m currently retired and still learning 
 - 💞️ I’m not good at collaboration
